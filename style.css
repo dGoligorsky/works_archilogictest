@@ -36,7 +36,7 @@ h3 {
 #renderedImage {
     height: 100%;
     width: 100%;
-    background-image: url("/assets/render.jpg");
+    background-image: url("assets/render.jpg");
     background-size: cover;
     background-position: center center;
     border-radius: 8px;
