@@ -15,19 +15,19 @@ body {
 h3 {
 
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 56px;
+    font-size: 32px;
 }
 
 .headline {
     position: fixed;
-    width: 60vw;
-    top: 48px;
-    left: 120px;
+    width: 40vw;
+    top: 40px;
+    left: 80px;
 }
 
 .roomCard {
     width: 70vw;
-    height: 50vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
